@@ -1,3 +1,5 @@
+# This is the code for finding the largest and smallest element in a list
+
 def most_elem(list1):
     d = {}
     for x in set(list1):
